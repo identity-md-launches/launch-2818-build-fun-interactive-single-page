@@ -1,0 +1,7 @@
+# Attribution
+
+- Nunito Sans by Vernon Adams, Jacques Le Bailly, Manvel Shmavonyan, and Alexei Vanyashin; Fraunces by Undercase Type. Latin WOFF2 files supplied by Fontsource variable packages, version 5.3.0, under the SIL Open Font License. The complete licenses are in `public/fonts/` and copied into `dist/fonts/`.
+- MetaMask, Rabby, and Phantom wallet marks are from RainbowKit's `packages/rainbowkit/src/wallets/walletConnectors/` source. Coinbase's mark follows the supplied wallet connector reference. Brand marks retain their original colors and identify the respective wallets. RainbowKit's MIT license is included in `public/wallets/LICENSE.txt` and `dist/wallets/LICENSE.txt`.
+- Interface icons use Lucide React (ISC license), with dependency attribution retained in the package distribution.
+- The implementation applied the pinned Better Interface design guidance by Jakub Krehel (MIT, commit `267330e1adfc66a718fb65fa6918c1f06d0a689e`). The documentation method was adapted from Paul Bakaus's Impeccable documentation guide (Apache-2.0, commit `9d715cc4f5564a990ca8345abfdd5df6dc9b41c8`). Their supplied copyright notices and licenses are preserved in `artifacts/design-guidance-LICENSE.txt`. The original guide text is not bundled into the website.
+- The story prose, hamster scenes, favicon, layout, and share card were created for Squeek Tales. `scripts/create-art.mjs` contains the SVG scene source.

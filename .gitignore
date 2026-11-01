@@ -1,0 +1,7 @@
+# Path budget: this file <= 512 bytes; generated dependencies/caches only.
+**/node_modules/
+**/.vite/
+**/.cache/
+**/coverage/
+**/*.tsbuildinfo
+test/scratch/
